@@ -14,5 +14,5 @@ My most common methods involve testing linear models, modelling structural equat
 
 The purpose of this blog is to 
 - give me an excuse to chase side projects 
-- share portfolio projects in one location 
-- host tutorials I've created to share with others
+- showcase portfolio projects in one location 
+- host tutorials to share with others
